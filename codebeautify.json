@@ -1,0 +1,121 @@
+﻿{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements :\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq. km beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of 2019.",
+      "correct_answer": " 1 only",
+      "incorrect_answers": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "None"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+      "correct_answer": "BB-8",
+      "incorrect_answers": [
+        "BB-3",
+        "AA-A",
+        "R2-D2"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "Who is the lead singer of Silverchair?",
+      "correct_answer": "Daniel Johns",
+      "incorrect_answers": [
+        "Ben Gillies",
+        "Chris Joannou",
+        ""
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "boolean",
+      "difficulty": "Prelims GS",
+      "question": "Gothenburg is the capital of Sweden.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "boolean",
+      "difficulty": "Prelims GS",
+      "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+      "correct_answer": "The Party",
+      "incorrect_answers": [
+        "The Weather Girls",
+        "The Pussycat Dolls",
+        "The Cheetah Girls"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many steps are there to upgrade a Staff?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+      "correct_answer": "Isla Sorna",
+      "incorrect_answers": [
+        "Isla Nublar",
+        "Isla Pena",
+        "Isla Muerta"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
+      "correct_answer": "Mason Pines",
+      "incorrect_answers": [
+        "Mable Pines",
+        "Jason Pines",
+        "Mark Pines"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "Prelims GS",
+      "question": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "correct_answer": "The Kingfish",
+      "incorrect_answers": [
+        "The Champ",
+        "The Hoot Owl",
+        "The Oracle"
+      ]
+    }
+  ]
+}
