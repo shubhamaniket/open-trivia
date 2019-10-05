@@ -116,6 +116,42 @@
         "The Hoot Owl",
         "The Oracle"
       ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "PrelimsGS",
+      "question": "The mutual legal assistance treaty in news is related to",
+      "correct_answer": "Gathering and exchanging information in an effort to enforce public or criminal laws",
+      "incorrect_answers": [
+        "Nuclear agreement between countries for effective transfer for civil purposes",
+        "Agreement between India and USA for Homeland security",
+        "Extradition treaty signed foreign countries"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "PrelimsGS",
+      "question": "Which among the following is incorrect about ‘Hyabusa2’?",
+      "correct_answer": "It has been launched by the Chinese space agency",
+      "incorrect_answers": [
+        "Hayabusa2 is an asteroid sample-return mission",
+        "Both (a) and (b)",
+        "Neither (a) nor (b)"
+      ]
+    },
+    {
+      "category": "Civil Services 2018",
+      "type": "multiple",
+      "difficulty": "PrelimsGS",
+      "question": "‘Kafala system’, recently seen in news is related to",
+      "correct_answer": "It has been launched by the Chinese space agency",
+      "incorrect_answers": [
+        "Migrant labours in Gulf countries.",
+        "Remittance by the Gulf Countries.",
+        "Anti-slavery mission by UN."
+      ]
     }
   ]
 }
